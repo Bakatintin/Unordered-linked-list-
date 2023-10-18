@@ -1,0 +1,3 @@
+C:/Users/27681/Downloads/LawrenceThing/cmake-build-debug/CMakeFiles/LawrenceThing.dir
+C:/Users/27681/Downloads/LawrenceThing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/27681/Downloads/LawrenceThing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
